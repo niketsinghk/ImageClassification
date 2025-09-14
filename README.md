@@ -4,19 +4,19 @@ Key Concepts of Image Classification:
 Input: An image (e.g., JPEG, PNG).
 Output: A label or category (e.g., “cat”, “car”, “tumor”, “mountain”).
 
-Data Preparation:
+## Data Preparation:
 
 Collect and label a large dataset of images.
 
 Preprocess images (resize, normalize, augment).
 
-Model Training:
+## Model Training:
 
 A machine learning or deep learning model (often a Convolutional Neural Network – CNN) is trained on labeled images.
 
 The model learns patterns and features that distinguish different classes.
 
-Prediction:
+## Prediction:
 
 The trained model receives a new image.
 
@@ -24,7 +24,7 @@ It outputs probabilities for each class.
 
 The class with the highest probability is selected as the prediction.
 
-Applications:
+## Applications:
  
 Medical: Classifying diseases from X-rays, MRIs.
 
